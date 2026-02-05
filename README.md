@@ -10,6 +10,10 @@ Written in Golang, using [Gin framework](https://github.com/gin-gonic/gin) to cr
 
 Agora Advanced Guide: [Token Management](https://docs.agora.io/en/video-calling/develop/authentication-workflow).
 
+## Live Chat Audio + Video Project Guide
+
+Use this service to power a live chat experience with real-time audio/video and optional messaging tokens. See the step-by-step guide here: [LIVE_CHAT_AUDIO_VIDEO.md](LIVE_CHAT_AUDIO_VIDEO.md).
+
 ## One-Click Deployments
 
 | Railway | Render | Heroku |
